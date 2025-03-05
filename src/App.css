@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main{
+  margin-left: 30px;
+  margin-top: 20px;
+  /* height: 250px; */
+  width: 300px;
+  border: 1px solid #cccccc8f;
+  padding: 20px;
+  font-family: "Rubik", sans-serif;
+  box-shadow: 3px 3px 2px 2px #cccccc8f;
+  margin-bottom: 10px;
+}
+
+.main h1{
+  text-align: center;
+  border: 1px solid black;
+  background-color: #f2a827;
+  padding: 3px;
+}
+.titt{
+  margin-top: 5px;
+  width: 100%;
+  padding-left: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 95%;
+  margin-left: 4px;
+  border: none;
+  border-bottom: 2px solid #f2a827;
+  outline: none;
+  font-size: 15px;
+}
+label{
+ margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: start;
+  font-size: 15px;
+}
+.Des{
+  margin-top: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  width: 95%;
+  margin-left: 4px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  border-bottom: 2px solid #f2a827;
+}
+.main button{
+  width: 100%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #f2a827;
+  border: none;
+}
+.container{
+  position: absolute;
+  left: 40%;
+  margin-bottom: 10px;
+}
+.container .NOTFOUND{
+  font-family: "Rubik", sans-serif;
+  margin-top: 20px;
+  margin-left: 35px;
+}
+.outputtodo{
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 10px;
+  padding: 15px;
+  border: 1px solid #cccccc8f;
+  box-shadow: 3px 3px 2px 2px #cccccc8f;
+
+}
+.outputtodo button{
+  width: 40%;
+  margin-left: 4px;
+  background-color: #f2a827;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 4px;
+}
+.outputtodo  span{
+  font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
